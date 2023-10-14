@@ -65,13 +65,13 @@ export default function MainMenu() {
             <div className="my-4 col-sm-6 col-md-3  col-12">
               <ul className="social-links">
                 <li>
-                  <a href="https://github.com/mmm-066550" target={"_blank"}>
+                  <a href="" target={"_blank"}>
                     <i className="fab fa-github"></i>
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://www.facebook.com/mmm066550"
+                    href=""
                     target={"_blank"}
                   >
                     <i className="fab fa-facebook"></i>
@@ -79,7 +79,7 @@ export default function MainMenu() {
                 </li>
                 <li>
                   <a
-                    href="https://www.linkedin.com/in/mmm066550/"
+                    href=""
                     target={"_blank"}
                   >
                     <i className="fab fa-linkedin"></i>
@@ -95,10 +95,10 @@ export default function MainMenu() {
                 All rights reserved by
                 <a
                   className="rights"
-                  href="https://mmm066550.me"
+                  href="https://adam-sims.vercel.app/"
                   target={"_blank"}
                 >
-                  MOUSTAPHA
+                  Adam Sims
                 </a>{" "}
                 © 2022
               </p>
